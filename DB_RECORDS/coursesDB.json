@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "63fef8f73ebcd308ad8ed44d"
+  },
+  "courseName": "anti aging",
+  "category": "beauty",
+  "lecturer": "jessi martel",
+  "description": "anti aging for youngs",
+  "price": {
+    "coursePrice": 250,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef91e3ebcd308ad8ed450"
+  },
+  "courseName": "anti aging",
+  "category": "beauty",
+  "lecturer": "flor martel",
+  "description": "anti aging ages 45+",
+  "price": {
+    "coursePrice": 200,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef9563ebcd308ad8ed453"
+  },
+  "courseName": "snooth yourself",
+  "category": "beauty",
+  "lecturer": "yoel gal",
+  "description": "make your face smoother",
+  "price": {
+    "coursePrice": 150,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef9e43ebcd308ad8ed456"
+  },
+  "courseName": "super mass",
+  "category": "fitness",
+  "lecturer": "yoel gal",
+  "description": "getting gean guscle",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefa3b3ebcd308ad8ed459"
+  },
+  "courseName": "posing",
+  "category": "fitness",
+  "lecturer": "yoav raz",
+  "description": "Bodybuilding posing",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefa813ebcd308ad8ed45c"
+  },
+  "courseName": "yoga",
+  "category": "fitness",
+  "lecturer": "shir paz",
+  "description": "calm your body and main with yoga",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefaf83ebcd308ad8ed45f"
+  },
+  "courseName": "html",
+  "category": "programming",
+  "lecturer": "shlomo paz",
+  "description": "the best html course for beginners",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefb0c3ebcd308ad8ed462"
+  },
+  "courseName": "java script",
+  "category": "programming",
+  "lecturer": "shlomo paz",
+  "description": "the best js course for beginners",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefb283ebcd308ad8ed465"
+  },
+  "courseName": "css",
+  "category": "programming",
+  "lecturer": "sharon refael",
+  "description": "the best css course for beginners",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fefb383ebcd308ad8ed468"
+  },
+  "courseName": "python",
+  "category": "programming",
+  "lecturer": "sharon refael",
+  "description": "the best python course for beginners",
+  "price": {
+    "coursePrice": 30,
+    "privetPrice": 30
+  },
+  "isPrivetSession": false,
+  "printCopy": {
+    "isPrintAvailable": true,
+    "copyStockAmount": 100,
+    "copyPrice": 15
+  },
+  "addedBy": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+}]

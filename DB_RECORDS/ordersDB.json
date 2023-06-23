@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "63fefc003ebcd308ad8ed47c"
+  },
+  "courseID": "63fef9e43ebcd308ad8ed456",
+  "userID": "63fef7073ebcd308ad8ed43a",
+  "userName": "lola",
+  "finalPayment": 30,
+  "__v": 0
+}]

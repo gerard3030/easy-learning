@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "63fef7073ebcd308ad8ed43a"
+  },
+  "firstName": "lola",
+  "lastName": "green",
+  "email": "lola@gamil.com",
+  "password": "$2a$10$Pr1zVV4pJwDYIRhuerJveu3eO0fE68xUGdtzPw.y8Q9bI4mw5Goze",
+  "address": {
+    "country": "spain",
+    "city": "bcn",
+    "street": "asnt besos",
+    "houseNumber": "994",
+    "zip": "994"
+  },
+  "phone": 528322994,
+  "isAdmin": false,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677653767758"
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef7483ebcd308ad8ed43d"
+  },
+  "firstName": "marta",
+  "lastName": "lachene",
+  "email": "marta@gamil.com",
+  "password": "$2a$10$5G.ZHSdvUHid5giYeYY/VuzfkwPkzuLfEkcLZR/nVUj3aB0igs3oK",
+  "address": {
+    "country": "spain",
+    "city": "bcn",
+    "street": "asnt besos",
+    "houseNumber": "995",
+    "zip": "995"
+  },
+  "phone": 528322995,
+  "isAdmin": false,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677653832513"
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef77f3ebcd308ad8ed440"
+  },
+  "firstName": "pablo",
+  "lastName": "albor",
+  "email": "pablo@gamil.com",
+  "password": "$2a$10$Vt9YWQ5z.76mZXm38Zw4BeQLXCYC6X781lMDsMGz6ArVxvB10UHrO",
+  "address": {
+    "country": "spain",
+    "city": "bcn",
+    "street": "asnt besos",
+    "houseNumber": "996",
+    "zip": "996"
+  },
+  "phone": 528322996,
+  "isAdmin": false,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677653887770"
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef7d93ebcd308ad8ed443"
+  },
+  "firstName": "pazit",
+  "lastName": "cohen",
+  "email": "pazit@gamil.com",
+  "password": "$2a$10$QF1nJ00bcJTCrz3BMjNcvO9kietTbkTdShJHz5CZpz.UYm31Z5Ia.",
+  "address": {
+    "country": "israel",
+    "city": "herzeliya",
+    "street": "hashomer",
+    "houseNumber": "997",
+    "zip": "997"
+  },
+  "phone": 528322997,
+  "isAdmin": false,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677653977359"
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef8243ebcd308ad8ed446"
+  },
+  "firstName": "yaron",
+  "lastName": "cohen",
+  "email": "yaron@gamil.com",
+  "password": "$2a$10$hq7HPyZB0Y59SFpKCP9bV.ysGwqcg8ZNaYAGvJtd29/QcAYN1M5Li",
+  "address": {
+    "country": "israel",
+    "city": "tlv",
+    "street": "frishman",
+    "houseNumber": "998",
+    "zip": "998"
+  },
+  "phone": 528322998,
+  "isAdmin": false,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677654052195"
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fef8513ebcd308ad8ed449"
+  },
+  "firstName": "tal",
+  "lastName": "cohen",
+  "email": "tal@gamil.com",
+  "password": "$2a$10$XfFfpZcs49rBpR5lzG7Pve/3.AiLrvehJQGjBQoTbFLMk9apdJnrC",
+  "address": {
+    "country": "israel",
+    "city": "tlv",
+    "street": "frishman",
+    "houseNumber": "999",
+    "zip": "999"
+  },
+  "phone": 528322999,
+  "isAdmin": true,
+  "accountSecurity": {
+    "failedAttempts": 0,
+    "isBlocked": false,
+    "lastAttempt": {
+      "$date": {
+        "$numberLong": "1677654097554"
+      }
+    }
+  },
+  "__v": 0
+}]

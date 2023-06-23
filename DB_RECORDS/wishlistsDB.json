@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "63fefb7c3ebcd308ad8ed46d"
+  },
+  "productID": "63fef8f73ebcd308ad8ed44d",
+  "allCoursesInList": [
+    "63fef8f73ebcd308ad8ed44d",
+    "63fefb283ebcd308ad8ed465",
+    "63fefb383ebcd308ad8ed468"
+  ],
+  "userID": "63fef8513ebcd308ad8ed449",
+  "__v": 0
+}]
