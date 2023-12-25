@@ -104,7 +104,7 @@ phone:  0528322666
 
 Standard users:
 email: pazit@gamil.com 
-password:  pazit887!L
+password:  pazit8987!L
 phone:  052832299
 
 
